@@ -23,16 +23,15 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🎓 <b>Education:</b> Diploma in Animation in Film-making & UI/UX Development</li>
+        <li>💻 <b>Role:</b> Software Developer</li>
         <li>📍 <b>Location:</b> India</li>
-        <li>💻 <b>Interests:</b> System architecture, Multi-agent frameworks, XR Simulations, UI/UX Design</li>
-        <li>🌱 <b>Learning:</b> Advanced Backend Infrastructure & Responsive Design</li>
-        <li>💖 <b>Passions:</b> Code • Design • Problem Solving</li>
+        <li>🚀 <b>Interests:</b> System architecture, Multi-agent frameworks, XR Simulations</li>
+        <li>🌱 <b>Learning:</b> Advanced Backend Infrastructure & Machine Learning</li>
+        <li>💖 <b>Passions:</b> Code • Technology • Problem Solving</li>
       </ul>
     </td>
     <td width="30%" align="center">
-      <!-- 2. Small Pixel Art / GIF Placeholder -->
-      <img src="https://via.placeholder.com/150x150/1a1a1a/d11f26?text=2.+Small+Pixel+Art/GIF" alt="Pixel Art" width="120">
+      <img src="assets/flower_field.gif" alt="Flower Field Vibes" width="150" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
