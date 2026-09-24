@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-  <img src="assets/row_of_characters.jpg" alt="Cyberpunk Characters" width="80%">
+  <img src="https://metrics.lecoq.io/Ashishparmar265?template=classic&config_timezone=Asia/Kolkata&base=activity,community,repositories,metadata&isocalendar=1&isocalendar_duration=half-year&languages=1&languages_colors=github&followup=1&followup_sections=repositories,user&theme=tokyonight" alt="Metrics" width="100%">
 </div>
 
 <br>
@@ -47,12 +47,23 @@
   <tr>
     <td width="60%" align="center">
       <a href="https://github.com/Ashishparmar265">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashishparmar265&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishparmar265&theme=dark&background=1a1a1a&border=d11f26&ring=d11f26&fire=d11f26&currStreakNum=ffffff&currStreakLabel=d11f26&sideNums=ffffff&sideLabels=d11f26&dates=888888" alt="GitHub Streak" width="100%" />
       </a>
       <br><br>
-      <a href="https://github.com/Ashishparmar265">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishparmar265&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </a>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+        <tr>
+          <td width="50%" align="center" style="border: none;">
+            <a href="https://github.com/Ashishparmar265">
+              <img src="https://github-readme-stats.vercel.app/api?username=Ashishparmar265&show_icons=true&theme=dark&bg_color=1a1a1a&border_color=d11f26&title_color=d11f26&icon_color=d11f26&text_color=ffffff" alt="GitHub Stats" width="100%" />
+            </a>
+          </td>
+          <td width="50%" align="center" style="border: none;">
+            <a href="https://github.com/Ashishparmar265">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishparmar265&layout=compact&theme=dark&bg_color=1a1a1a&border_color=d11f26&title_color=d11f26&text_color=ffffff" alt="Top Languages" width="100%" />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="40%" align="center">
       <img src="assets/vertical_character.jpg" alt="Cyberpunk Character" width="100%" style="border-radius: 10px; display: block;">
