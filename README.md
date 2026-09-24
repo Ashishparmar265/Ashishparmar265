@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- 1. Top Banner Image Placeholder -->
-  <img src="https://via.placeholder.com/800x250/1a1a1a/d11f26?text=1.+Top+Banner+Image" alt="Banner" width="100%">
+  <img src="assets/banner.gif" alt="Banner" width="100%" style="display: block;">
 </div>
 
 <br>
@@ -31,7 +30,7 @@
       </ul>
     </td>
     <td width="30%" align="center">
-      <img src="assets/flower_field.gif" alt="Flower Field Vibes" width="150" style="border-radius: 10px;">
+      <img src="assets/flower_field.gif" alt="Flower Field Vibes" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
 </table>
@@ -39,8 +38,7 @@
 ---
 
 <div align="center">
-  <!-- 3. Row of Characters Image Placeholder -->
-  <img src="https://via.placeholder.com/600x150/1a1a1a/d11f26?text=3.+Row+of+Characters+Image" alt="Characters" width="60%">
+  <img src="assets/row_of_characters.jpg" alt="Cyberpunk Characters" width="80%">
 </div>
 
 <br>
@@ -57,8 +55,7 @@
       </a>
     </td>
     <td width="40%" align="center">
-      <!-- 4. Vertical Character Art Placeholder -->
-      <img src="https://via.placeholder.com/250x400/1a1a1a/d11f26?text=4.+Vertical+Character+Art" alt="Vertical Art" width="250" style="border-radius: 10px;">
+      <img src="assets/vertical_character.jpg" alt="Cyberpunk Character" width="100%" style="border-radius: 10px; display: block;">
     </td>
   </tr>
 </table>
