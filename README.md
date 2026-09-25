@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/Ashishparmar265">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishparmar265&theme=dark&background=1a1a1a&border=d11f26&ring=d11f26&fire=d11f26&currStreakNum=ffffff&currStreakLabel=d11f26&sideNums=ffffff&sideLabels=d11f26&dates=888888" alt="GitHub Streak" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishparmar265&theme=dark&background=122e42&border=bbd2d8&ring=bbd2d8&fire=bbd2d8&currStreakNum=ffffff&currStreakLabel=bbd2d8&sideNums=ffffff&sideLabels=bbd2d8&dates=888888" alt="GitHub Streak" width="80%" />
   </a>
 </div>
 <br>
@@ -48,12 +48,12 @@
     <tr>
       <td width="50%" align="center" style="border: none;">
         <a href="https://github.com/Ashishparmar265">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashishparmar265&show_icons=true&theme=dark&bg_color=1a1a1a&border_color=d11f26&title_color=d11f26&icon_color=d11f26&text_color=ffffff" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashishparmar265&show_icons=true&theme=dark&bg_color=122e42&border_color=bbd2d8&title_color=bbd2d8&icon_color=bbd2d8&text_color=ffffff" alt="GitHub Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center" style="border: none;">
         <a href="https://github.com/Ashishparmar265">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashishparmar265&layout=compact&theme=dark&bg_color=1a1a1a&border_color=d11f26&title_color=d11f26&text_color=ffffff" alt="Top Languages" width="100%" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashishparmar265&layout=compact&theme=dark&bg_color=122e42&border_color=bbd2d8&title_color=bbd2d8&text_color=ffffff" alt="Top Languages" width="100%" />
         </a>
       </td>
     </tr>
@@ -63,11 +63,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishparmar265&theme=tokyonight" alt="Profile Summary">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishparmar265&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishparmar265&bg_color=122e42&color=bbd2d8&line=bbd2d8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%">
 </div>
 
 ---
