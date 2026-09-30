@@ -12,6 +12,14 @@
   <a href="https://github.com/Ashishparmar265">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <a href="https://codeforces.com/problemset/status?my=on">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
+<a href="https://leetcode.com/u/Ashish__Parmar__/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
 </div>
 
 ---
@@ -24,7 +32,7 @@
       <ul>
         <li>💻 <b>Role:</b> Software Developer</li>
         <li>📍 <b>Location:</b> India</li>
-        <li>🚀 <b>Interests:</b> System architecture, Multi-agent frameworks, XR Simulations</li>
+        <li>🚀 <b>Interests:</b> Applied AI Engineer, Building Multi-Agent Systems, Multi-agent frameworks, XR Simulations</li>
         <li>🌱 <b>Learning:</b> Advanced Backend Infrastructure & Machine Learning</li>
         <li>💖 <b>Passions:</b> Code • Technology • Problem Solving</li>
       </ul>
