@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h2>💻 Hi, I'm Ashish!</h2>
+  <h2>💻 Hi, I'm Ashish</h2>
   <a href="https://www.linkedin.com/in/ashish-parmar-36075a250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://codeforces.com/problemset/status?my=on">
+  <a href="https://codeforces.com/profile/Prime_._">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
 
@@ -30,10 +30,10 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>💻 <b>Role:</b> Software Developer</li>
+        <li>💻 <b>Role:</b> Software/AI Engineer</li>
         <li>📍 <b>Location:</b> India</li>
         <li>🚀 <b>Interests:</b> Applied AI Engineer, Building Multi-Agent Systems, Multi-agent frameworks, XR Simulations</li>
-        <li>🌱 <b>Learning:</b> Advanced Backend Infrastructure & Machine Learning</li>
+        <li>🌱 <b>Learning:</b> Advanced Backend Infrastructure, AI Infrastructure, Machine Learning</li>
         <li>💖 <b>Passions:</b> Code • Technology • Problem Solving</li>
       </ul>
     </td>
